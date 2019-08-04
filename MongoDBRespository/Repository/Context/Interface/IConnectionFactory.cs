@@ -1,9 +1,6 @@
 ﻿using MongoDB.Driver;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace MongoDBRespository.Repository.Context
+namespace MongoDBRepository.Repository.Context
 {
     public interface IConnectionFactory
     {

@@ -1,9 +1,6 @@
-﻿using MongoDB.Driver;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
-namespace MongoDBRespository.Repository.Interface
+namespace MongoDBRepository.Repository.Interface
 {
     public interface IRepository<T>
     {

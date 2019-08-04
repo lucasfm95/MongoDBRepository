@@ -1,9 +1,6 @@
 ﻿using MongoDB.Driver;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace MongoDBRespository.Repository.Context
+namespace MongoDBRepository.Repository.Context
 {
     /// <summary>
     /// Funções de conexão com o mongoDB

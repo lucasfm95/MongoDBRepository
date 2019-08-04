@@ -1,11 +1,9 @@
 ﻿using MongoDB.Driver;
-using MongoDBRespository.Repository.Context;
-using MongoDBRespository.Repository.Interface;
-using System;
+using MongoDBRepository.Repository.Context;
+using MongoDBRepository.Repository.Interface;
 using System.Collections.Generic;
-using System.Text;
 
-namespace MongoDBRespository.Repository.Base
+namespace MongoDBRepository.Repository.Base
 {
     /// <summary>
     /// Repositório genérico
