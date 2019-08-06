@@ -9,7 +9,7 @@
     <RepositoryType>GitHub</RepositoryType>
     <PackageTags>MongoDB</PackageTags>
     <NeutralLanguage>pt-BR</NeutralLanguage>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
     <PackageId>MongoDBRepositoryLMartins</PackageId>
   </PropertyGroup>
 
