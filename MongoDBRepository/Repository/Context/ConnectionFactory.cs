@@ -5,7 +5,7 @@ namespace MongoDBRepository.Repository.Context
     /// <summary>
     /// Funções de conexão com o mongoDB
     /// </summary>
-    public class ConnectionFactory
+    public class ConnectionFactory : IConnectionFactory
     {
         private readonly string m_ConnectionString;
 
